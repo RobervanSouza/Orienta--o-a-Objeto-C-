@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robro\\OneDrive\\Área de Trabalho\\Curso Alura\\C#\\funções\\funções.csproj": {}
+    "c:\\Users\\robro\\OneDrive\\Área de Trabalho\\Curso Alura\\C#\\funções\\funções.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robro\\OneDrive\\Área de Trabalho\\Curso Alura\\C#\\funções\\funções.csproj": {
+    "c:\\Users\\robro\\OneDrive\\Área de Trabalho\\Curso Alura\\C#\\funções\\funções.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robro\\OneDrive\\Área de Trabalho\\Curso Alura\\C#\\funções\\funções.csproj",
+        "projectUniqueName": "c:\\Users\\robro\\OneDrive\\Área de Trabalho\\Curso Alura\\C#\\funções\\funções.csproj",
         "projectName": "funções",
-        "projectPath": "C:\\Users\\robro\\OneDrive\\Área de Trabalho\\Curso Alura\\C#\\funções\\funções.csproj",
+        "projectPath": "c:\\Users\\robro\\OneDrive\\Área de Trabalho\\Curso Alura\\C#\\funções\\funções.csproj",
         "packagesPath": "C:\\Users\\robro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robro\\OneDrive\\Área de Trabalho\\Curso Alura\\C#\\funções\\obj\\",
+        "outputPath": "c:\\Users\\robro\\OneDrive\\Área de Trabalho\\Curso Alura\\C#\\funções\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\robro\\AppData\\Roaming\\NuGet\\NuGet.Config"

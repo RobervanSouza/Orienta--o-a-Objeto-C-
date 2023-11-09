@@ -1,1 +1,1 @@
-﻿string mensagem = "seja bem vindo!!!"Console.WriteLine("teste ") // teste// teste git 
+﻿string mensagem = "seja bem vindo!!!";Console.WriteLine("teste " + mensagem); 
